@@ -6,10 +6,11 @@ Programmation, audits, sécurité informatique, infogérance serveurs Linux Debi
 
 
 Spécialisé en Prestashop, Xoops, Wordpress, Joomla pour les CMS
-Niveau languages informatique : PHP, Perl, Python, C, C+, C++, Cobol, HTML, CSS, Bash, JavaScript, Java, Pascal, Assembleur, ...
+Niveau languages informatique : PHP, Perl, Python, C, C+, C++, Cobol, HTML, CSS, Bash, JavaScript, Java, Pascal, Assembleur, Flutter, Kotlin, Objective-C, ...
 Même si pour certains langages, ça fait longtemps que je n'ai plus pratiqué.
 Dans la même série, tout une série de Frameworks, plus ou moins à la mode selon les périodes 😄
 Gestion de serveurs Debian, d'un VPS à la gestion d'infrastructure à haute disponibilité.
  
 **Une bonne journée commence toujours par un bon café** ☕  
 
+Vous pouvez m'offrir un café [ici](https://ko-fi.com/montuy337513)
